@@ -1,0 +1,10 @@
+insert into UserInfo01 values('1','Red','1234','2019-08-24','제목01','메모01입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('2','Orage','1234','2019-09-03','제목02','메모02입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('3','Yellow','1234','2019-09-04','제목03','메모03입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('4','Green','1234','2019-09-05','제목04','메모04입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('5','Blue','1234','2019-09-06','제목05','메모05입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('6','Magenta','1234','2019-09-07','제목06','메모06입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('7','Red2','1234','2019-09-08','제목07','메모07입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('8','Orange2','1234','2019-09-09','제목08','메모08입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('9','Black','1234','2019-09-10','제목09','메모09입니다.','청주시 청원구 내덕동','36','127',sysdate);
+insert into UserInfo01 values('10','White','1234','2019-09-11','제목10','메모10입니다.','청주시 청원구 내덕동','36','127',sysdate);

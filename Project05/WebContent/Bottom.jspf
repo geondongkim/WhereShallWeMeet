@@ -1,0 +1,9 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div class="container">
+	<center>
+		<hr>
+			<a>Copyright(c)2019 Geondong Kim All rights reserved. </a>
+		<hr>
+	</center>
+</div>

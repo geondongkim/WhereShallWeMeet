@@ -1,0 +1,15 @@
+DROP TABLE	 UserInfo01;
+PURGE RECYCLEBIN;
+CREATE TABLE	 UserInfo01 (
+           USER_NO    NUMBER(22),
+           USER_NAME  VARCHAR2(30) NOT NULL ,
+           USER_PWD   VARCHAR2(30) NOT NULL ,
+           USER_DATE VARCHAR2(50),
+           USER_TITLE VARCHAR2(100),
+           USER_MEMO  VARCHAR2(4000),
+           USER_LOCATION  VARCHAR2(100),
+           USER_LAT VARCHAR2(20),
+           USER_LNG VARCHAR2(20),
+           USER_LOGTIME  DATE DEFAULT sysdate 
+ );
+ 

@@ -1,0 +1,14 @@
+DROP TABLE	 Plans;
+PURGE RECYCLEBIN;
+CREATE TABLE	 Plans (
+           USER_NO    NUMBER(22),
+           USER_NAME1 VARCHAR2(30) NOT NULL ,
+           USER_NAME2  VARCHAR2(30) NOT NULL ,
+           USER_PWD   VARCHAR2(30) NOT NULL ,
+           USER_DATE VARCHAR2(50),
+           USER_TITLE VARCHAR2(50),
+           USER_LAT VARCHAR2(20),
+           USER_LNG VARCHAR2(20),
+           USER_LOGTIME  DATE DEFAULT sysdate 
+ );
+ 
